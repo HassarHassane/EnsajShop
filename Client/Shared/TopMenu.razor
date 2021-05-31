@@ -1,0 +1,39 @@
+﻿@inject ISyncLocalStorageService LocalStorage
+@inject ICartService CartService
+@inject IStatsService StatsService;
+@implements IDisposable
+
+<div class="float-left">You are the visitor n°: <strong>@visits</strong> today!</div>
+<a href="cart" class="btn btn-info">
+    <i class="oi oi-cart"></i>
+    Cart
+    <span class="badge badge-pill badge-light">@GetProductCount()</span>
+</a>
+
+
+@code {
+    private int visits = 0;
+    protected override void OnInitialized()
+    {
+        CartService.OnChange += StateHasChanged;
+
+    }
+
+    protected override async Task OnInitializedAsync()
+    {
+        await StatsService.IncrementVisits();
+        visits = await StatsService.GetVisits();
+    }
+
+    public void Dispose()
+    {
+        CartService.OnChange -= StateHasChanged;
+    }
+
+    private int GetProductCount()
+    {
+        var cart = LocalStorage.GetItem<List<ProductVariant>>("cart");
+        return cart != null ? cart.Count : 0;
+    }
+
+}

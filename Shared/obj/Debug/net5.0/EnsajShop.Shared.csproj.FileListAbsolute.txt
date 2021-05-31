@@ -1,0 +1,47 @@
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Shared\bin\Debug\net5.0\EnsajShop.Shared.deps.json
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Shared\bin\Debug\net5.0\EnsajShop.Shared.dll
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Shared\bin\Debug\net5.0\ref\EnsajShop.Shared.dll
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Shared\bin\Debug\net5.0\EnsajShop.Shared.pdb
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Shared\obj\Debug\net5.0\EnsajShop.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Shared\obj\Debug\net5.0\EnsajShop.Shared.AssemblyInfoInputs.cache
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Shared\obj\Debug\net5.0\EnsajShop.Shared.AssemblyInfo.cs
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Shared\obj\Debug\net5.0\EnsajShop.Shared.csproj.CoreCompileInputs.cache
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Shared\obj\Debug\net5.0\EnsajShop.Shared.dll
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Shared\obj\Debug\net5.0\ref\EnsajShop.Shared.dll
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Shared\obj\Debug\net5.0\EnsajShop.Shared.pdb
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Shared\bin\Debug\net5.0\EnsajShop.Shared.deps.json
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Shared\bin\Debug\net5.0\EnsajShop.Shared.dll
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Shared\bin\Debug\net5.0\ref\EnsajShop.Shared.dll
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Shared\bin\Debug\net5.0\EnsajShop.Shared.pdb
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Shared\obj\Debug\net5.0\EnsajShop.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Shared\obj\Debug\net5.0\EnsajShop.Shared.AssemblyInfoInputs.cache
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Shared\obj\Debug\net5.0\EnsajShop.Shared.AssemblyInfo.cs
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Shared\obj\Debug\net5.0\EnsajShop.Shared.csproj.CoreCompileInputs.cache
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Shared\obj\Debug\net5.0\EnsajShop.Shared.dll
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Shared\obj\Debug\net5.0\ref\EnsajShop.Shared.dll
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Shared\obj\Debug\net5.0\EnsajShop.Shared.pdb
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Shared\obj\Debug\net5.0\EnsajShop.Shared.csprojAssemblyReference.cache
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Shared\obj\Debug\net5.0\EnsajShop.Shared.csprojAssemblyReference.cache
+C:\Users\hhass\Desktop\EnsajShop3\EnsajShop\Shared\bin\Debug\net5.0\EnsajShop.Shared.deps.json
+C:\Users\hhass\Desktop\EnsajShop3\EnsajShop\Shared\bin\Debug\net5.0\EnsajShop.Shared.dll
+C:\Users\hhass\Desktop\EnsajShop3\EnsajShop\Shared\bin\Debug\net5.0\ref\EnsajShop.Shared.dll
+C:\Users\hhass\Desktop\EnsajShop3\EnsajShop\Shared\bin\Debug\net5.0\EnsajShop.Shared.pdb
+C:\Users\hhass\Desktop\EnsajShop3\EnsajShop\Shared\obj\Debug\net5.0\EnsajShop.Shared.csprojAssemblyReference.cache
+C:\Users\hhass\Desktop\EnsajShop3\EnsajShop\Shared\obj\Debug\net5.0\EnsajShop.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hhass\Desktop\EnsajShop3\EnsajShop\Shared\obj\Debug\net5.0\EnsajShop.Shared.AssemblyInfoInputs.cache
+C:\Users\hhass\Desktop\EnsajShop3\EnsajShop\Shared\obj\Debug\net5.0\EnsajShop.Shared.AssemblyInfo.cs
+C:\Users\hhass\Desktop\EnsajShop3\EnsajShop\Shared\obj\Debug\net5.0\EnsajShop.Shared.csproj.CoreCompileInputs.cache
+C:\Users\hhass\Desktop\EnsajShop3\EnsajShop\Shared\obj\Debug\net5.0\EnsajShop.Shared.dll
+C:\Users\hhass\Desktop\EnsajShop3\EnsajShop\Shared\obj\Debug\net5.0\ref\EnsajShop.Shared.dll
+C:\Users\hhass\Desktop\EnsajShop3\EnsajShop\Shared\obj\Debug\net5.0\EnsajShop.Shared.pdb
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Shared\bin\Debug\net5.0\EnsajShop.Shared.deps.json
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Shared\bin\Debug\net5.0\EnsajShop.Shared.dll
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Shared\bin\Debug\net5.0\ref\EnsajShop.Shared.dll
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Shared\bin\Debug\net5.0\EnsajShop.Shared.pdb
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Shared\obj\Debug\net5.0\EnsajShop.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Shared\obj\Debug\net5.0\EnsajShop.Shared.AssemblyInfoInputs.cache
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Shared\obj\Debug\net5.0\EnsajShop.Shared.AssemblyInfo.cs
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Shared\obj\Debug\net5.0\EnsajShop.Shared.csproj.CoreCompileInputs.cache
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Shared\obj\Debug\net5.0\EnsajShop.Shared.dll
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Shared\obj\Debug\net5.0\ref\EnsajShop.Shared.dll
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Shared\obj\Debug\net5.0\EnsajShop.Shared.pdb

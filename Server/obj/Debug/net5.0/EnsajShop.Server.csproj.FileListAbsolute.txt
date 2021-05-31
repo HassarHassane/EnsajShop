@@ -1,0 +1,370 @@
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Server\bin\Debug\net5.0\EnsajShop.Client.StaticWebAssets.xml
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Server\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Server\bin\Debug\net5.0\appsettings.json
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugHost.dll
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugProxy.dll
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Server\bin\Debug\net5.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Server\bin\Debug\net5.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.dll
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.Pdb.dll
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.Rocks.dll
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Server\bin\Debug\net5.0\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Server\bin\Debug\net5.0\EnsajShop.Server.StaticWebAssets.xml
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Server\bin\Debug\net5.0\EnsajShop.Server.exe
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Server\bin\Debug\net5.0\EnsajShop.Server.deps.json
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Server\bin\Debug\net5.0\EnsajShop.Server.runtimeconfig.json
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Server\bin\Debug\net5.0\EnsajShop.Server.runtimeconfig.dev.json
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Server\bin\Debug\net5.0\EnsajShop.Server.dll
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Server\bin\Debug\net5.0\ref\EnsajShop.Server.dll
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Server\bin\Debug\net5.0\EnsajShop.Server.pdb
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Server\bin\Debug\net5.0\EnsajShop.Server.Views.dll
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Server\bin\Debug\net5.0\EnsajShop.Server.Views.pdb
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.dll
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Server\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Server\bin\Debug\net5.0\Microsoft.JSInterop.dll
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Server\bin\Debug\net5.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Server\bin\Debug\net5.0\System.IO.Pipelines.dll
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Server\bin\Debug\net5.0\EnsajShop.Client.dll
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Server\bin\Debug\net5.0\EnsajShop.Shared.dll
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Server\bin\Debug\net5.0\EnsajShop.Client.pdb
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Server\bin\Debug\net5.0\EnsajShop.Shared.pdb
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Server\obj\Debug\net5.0\EnsajShop.Server.csprojAssemblyReference.cache
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Server\obj\Debug\net5.0\EnsajShop.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Server\obj\Debug\net5.0\EnsajShop.Server.AssemblyInfoInputs.cache
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Server\obj\Debug\net5.0\EnsajShop.Server.AssemblyInfo.cs
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Server\obj\Debug\net5.0\EnsajShop.Server.csproj.CoreCompileInputs.cache
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Server\obj\Debug\net5.0\EnsajShop.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Server\obj\Debug\net5.0\EnsajShop.Server.RazorAssemblyInfo.cache
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Server\obj\Debug\net5.0\EnsajShop.Server.RazorAssemblyInfo.cs
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Server\obj\Debug\net5.0\staticwebassets\EnsajShop.Server.StaticWebAssets.Manifest.cache
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Server\obj\Debug\net5.0\staticwebassets\EnsajShop.Server.StaticWebAssets.xml
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Server\obj\Debug\net5.0\scopedcss\bundle\EnsajShop.Server.styles.css
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Server\obj\Debug\net5.0\EnsajShop.Server.TagHelpers.input.cache
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Server\obj\Debug\net5.0\EnsajShop.Server.TagHelpers.output.cache
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Server\obj\Debug\net5.0\EnsajShop.Server.RazorCoreGenerate.cache
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Server\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Server\obj\Debug\net5.0\EnsajShop.Server.RazorTargetAssemblyInfo.cache
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Server\obj\Debug\net5.0\EnsajShop.Server.RazorTargetAssemblyInfo.cs
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Server\obj\Debug\net5.0\EnsajShop.Server.Views.pdb
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Server\obj\Debug\net5.0\EnsajShop.Server.csproj.CopyComplete
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Server\obj\Debug\net5.0\EnsajShop.Server.dll
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Server\obj\Debug\net5.0\ref\EnsajShop.Server.dll
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Server\obj\Debug\net5.0\EnsajShop.Server.pdb
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Server\obj\Debug\net5.0\EnsajShop.Server.genruntimeconfig.cache
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Server\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Server\bin\Debug\net5.0\appsettings.json
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugHost.dll
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugProxy.dll
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Server\bin\Debug\net5.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Server\bin\Debug\net5.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.dll
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.Pdb.dll
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.Rocks.dll
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Server\bin\Debug\net5.0\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Server\bin\Debug\net5.0\EnsajShop.Client.StaticWebAssets.xml
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Server\bin\Debug\net5.0\EnsajShop.Server.StaticWebAssets.xml
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Server\bin\Debug\net5.0\EnsajShop.Server.exe
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Server\bin\Debug\net5.0\EnsajShop.Server.deps.json
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Server\bin\Debug\net5.0\EnsajShop.Server.runtimeconfig.json
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Server\bin\Debug\net5.0\EnsajShop.Server.runtimeconfig.dev.json
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Server\bin\Debug\net5.0\EnsajShop.Server.dll
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Server\bin\Debug\net5.0\ref\EnsajShop.Server.dll
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Server\bin\Debug\net5.0\EnsajShop.Server.pdb
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Server\bin\Debug\net5.0\EnsajShop.Server.Views.dll
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Server\bin\Debug\net5.0\EnsajShop.Server.Views.pdb
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.dll
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Server\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Server\bin\Debug\net5.0\Microsoft.JSInterop.dll
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Server\bin\Debug\net5.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Server\bin\Debug\net5.0\System.IO.Pipelines.dll
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Server\bin\Debug\net5.0\EnsajShop.Client.dll
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Server\bin\Debug\net5.0\EnsajShop.Shared.dll
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Server\bin\Debug\net5.0\EnsajShop.Client.pdb
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Server\bin\Debug\net5.0\EnsajShop.Shared.pdb
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Server\obj\Debug\net5.0\EnsajShop.Server.csprojAssemblyReference.cache
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Server\obj\Debug\net5.0\EnsajShop.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Server\obj\Debug\net5.0\EnsajShop.Server.AssemblyInfoInputs.cache
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Server\obj\Debug\net5.0\EnsajShop.Server.AssemblyInfo.cs
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Server\obj\Debug\net5.0\EnsajShop.Server.csproj.CoreCompileInputs.cache
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Server\obj\Debug\net5.0\EnsajShop.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Server\obj\Debug\net5.0\EnsajShop.Server.RazorAssemblyInfo.cache
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Server\obj\Debug\net5.0\EnsajShop.Server.RazorAssemblyInfo.cs
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Server\obj\Debug\net5.0\staticwebassets\EnsajShop.Server.StaticWebAssets.Manifest.cache
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Server\obj\Debug\net5.0\staticwebassets\EnsajShop.Server.StaticWebAssets.xml
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Server\obj\Debug\net5.0\scopedcss\bundle\EnsajShop.Server.styles.css
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Server\obj\Debug\net5.0\EnsajShop.Server.TagHelpers.input.cache
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Server\obj\Debug\net5.0\EnsajShop.Server.TagHelpers.output.cache
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Server\obj\Debug\net5.0\EnsajShop.Server.RazorCoreGenerate.cache
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Server\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Server\obj\Debug\net5.0\EnsajShop.Server.RazorTargetAssemblyInfo.cache
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Server\obj\Debug\net5.0\EnsajShop.Server.RazorTargetAssemblyInfo.cs
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Server\obj\Debug\net5.0\EnsajShop.Server.Views.pdb
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Server\obj\Debug\net5.0\EnsajShop.Server.csproj.CopyComplete
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Server\obj\Debug\net5.0\EnsajShop.Server.dll
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Server\obj\Debug\net5.0\ref\EnsajShop.Server.dll
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Server\obj\Debug\net5.0\EnsajShop.Server.pdb
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Server\obj\Debug\net5.0\EnsajShop.Server.genruntimeconfig.cache
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Server\bin\Debug\net5.0\Humanizer.dll
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Server\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Server\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Server\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Server\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Server\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Server\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Server\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Server\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Server\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Server\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Server\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Server\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Server\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Server\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Server\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Server\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Server\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Server\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Server\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Server\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Server\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Server\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Server\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Server\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Server\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hhass\Desktop\EnsajShop3\EnsajShop\Server\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\hhass\Desktop\EnsajShop3\EnsajShop\Server\bin\Debug\net5.0\appsettings.json
+C:\Users\hhass\Desktop\EnsajShop3\EnsajShop\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugHost.dll
+C:\Users\hhass\Desktop\EnsajShop3\EnsajShop\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+C:\Users\hhass\Desktop\EnsajShop3\EnsajShop\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugProxy.dll
+C:\Users\hhass\Desktop\EnsajShop3\EnsajShop\Server\bin\Debug\net5.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hhass\Desktop\EnsajShop3\EnsajShop\Server\bin\Debug\net5.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\hhass\Desktop\EnsajShop3\EnsajShop\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.dll
+C:\Users\hhass\Desktop\EnsajShop3\EnsajShop\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.Pdb.dll
+C:\Users\hhass\Desktop\EnsajShop3\EnsajShop\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.Rocks.dll
+C:\Users\hhass\Desktop\EnsajShop3\EnsajShop\Server\bin\Debug\net5.0\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\hhass\Desktop\EnsajShop3\EnsajShop\Server\bin\Debug\net5.0\EnsajShop.Client.StaticWebAssets.xml
+C:\Users\hhass\Desktop\EnsajShop3\EnsajShop\Server\bin\Debug\net5.0\EnsajShop.Server.StaticWebAssets.xml
+C:\Users\hhass\Desktop\EnsajShop3\EnsajShop\Server\bin\Debug\net5.0\EnsajShop.Server.exe
+C:\Users\hhass\Desktop\EnsajShop3\EnsajShop\Server\bin\Debug\net5.0\EnsajShop.Server.deps.json
+C:\Users\hhass\Desktop\EnsajShop3\EnsajShop\Server\bin\Debug\net5.0\EnsajShop.Server.runtimeconfig.json
+C:\Users\hhass\Desktop\EnsajShop3\EnsajShop\Server\bin\Debug\net5.0\EnsajShop.Server.runtimeconfig.dev.json
+C:\Users\hhass\Desktop\EnsajShop3\EnsajShop\Server\bin\Debug\net5.0\EnsajShop.Server.dll
+C:\Users\hhass\Desktop\EnsajShop3\EnsajShop\Server\bin\Debug\net5.0\ref\EnsajShop.Server.dll
+C:\Users\hhass\Desktop\EnsajShop3\EnsajShop\Server\bin\Debug\net5.0\EnsajShop.Server.pdb
+C:\Users\hhass\Desktop\EnsajShop3\EnsajShop\Server\bin\Debug\net5.0\EnsajShop.Server.Views.dll
+C:\Users\hhass\Desktop\EnsajShop3\EnsajShop\Server\bin\Debug\net5.0\EnsajShop.Server.Views.pdb
+C:\Users\hhass\Desktop\EnsajShop3\EnsajShop\Server\bin\Debug\net5.0\Humanizer.dll
+C:\Users\hhass\Desktop\EnsajShop3\EnsajShop\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\hhass\Desktop\EnsajShop3\EnsajShop\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.dll
+C:\Users\hhass\Desktop\EnsajShop3\EnsajShop\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\hhass\Desktop\EnsajShop3\EnsajShop\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\hhass\Desktop\EnsajShop3\EnsajShop\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\hhass\Desktop\EnsajShop3\EnsajShop\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\hhass\Desktop\EnsajShop3\EnsajShop\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\hhass\Desktop\EnsajShop3\EnsajShop\Server\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\hhass\Desktop\EnsajShop3\EnsajShop\Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\hhass\Desktop\EnsajShop3\EnsajShop\Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hhass\Desktop\EnsajShop3\EnsajShop\Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hhass\Desktop\EnsajShop3\EnsajShop\Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hhass\Desktop\EnsajShop3\EnsajShop\Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hhass\Desktop\EnsajShop3\EnsajShop\Server\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hhass\Desktop\EnsajShop3\EnsajShop\Server\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\hhass\Desktop\EnsajShop3\EnsajShop\Server\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hhass\Desktop\EnsajShop3\EnsajShop\Server\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\hhass\Desktop\EnsajShop3\EnsajShop\Server\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hhass\Desktop\EnsajShop3\EnsajShop\Server\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hhass\Desktop\EnsajShop3\EnsajShop\Server\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hhass\Desktop\EnsajShop3\EnsajShop\Server\bin\Debug\net5.0\Microsoft.JSInterop.dll
+C:\Users\hhass\Desktop\EnsajShop3\EnsajShop\Server\bin\Debug\net5.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\hhass\Desktop\EnsajShop3\EnsajShop\Server\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\hhass\Desktop\EnsajShop3\EnsajShop\Server\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\hhass\Desktop\EnsajShop3\EnsajShop\Server\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hhass\Desktop\EnsajShop3\EnsajShop\Server\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hhass\Desktop\EnsajShop3\EnsajShop\Server\bin\Debug\net5.0\System.IO.Pipelines.dll
+C:\Users\hhass\Desktop\EnsajShop3\EnsajShop\Server\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\hhass\Desktop\EnsajShop3\EnsajShop\Server\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hhass\Desktop\EnsajShop3\EnsajShop\Server\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hhass\Desktop\EnsajShop3\EnsajShop\Server\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hhass\Desktop\EnsajShop3\EnsajShop\Server\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hhass\Desktop\EnsajShop3\EnsajShop\Server\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hhass\Desktop\EnsajShop3\EnsajShop\Server\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hhass\Desktop\EnsajShop3\EnsajShop\Server\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hhass\Desktop\EnsajShop3\EnsajShop\Server\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hhass\Desktop\EnsajShop3\EnsajShop\Server\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hhass\Desktop\EnsajShop3\EnsajShop\Server\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hhass\Desktop\EnsajShop3\EnsajShop\Server\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hhass\Desktop\EnsajShop3\EnsajShop\Server\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\hhass\Desktop\EnsajShop3\EnsajShop\Server\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hhass\Desktop\EnsajShop3\EnsajShop\Server\bin\Debug\net5.0\EnsajShop.Client.dll
+C:\Users\hhass\Desktop\EnsajShop3\EnsajShop\Server\bin\Debug\net5.0\EnsajShop.Shared.dll
+C:\Users\hhass\Desktop\EnsajShop3\EnsajShop\Server\bin\Debug\net5.0\EnsajShop.Client.pdb
+C:\Users\hhass\Desktop\EnsajShop3\EnsajShop\Server\bin\Debug\net5.0\EnsajShop.Shared.pdb
+C:\Users\hhass\Desktop\EnsajShop3\EnsajShop\Server\obj\Debug\net5.0\EnsajShop.Server.csprojAssemblyReference.cache
+C:\Users\hhass\Desktop\EnsajShop3\EnsajShop\Server\obj\Debug\net5.0\EnsajShop.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hhass\Desktop\EnsajShop3\EnsajShop\Server\obj\Debug\net5.0\EnsajShop.Server.AssemblyInfoInputs.cache
+C:\Users\hhass\Desktop\EnsajShop3\EnsajShop\Server\obj\Debug\net5.0\EnsajShop.Server.AssemblyInfo.cs
+C:\Users\hhass\Desktop\EnsajShop3\EnsajShop\Server\obj\Debug\net5.0\EnsajShop.Server.csproj.CoreCompileInputs.cache
+C:\Users\hhass\Desktop\EnsajShop3\EnsajShop\Server\obj\Debug\net5.0\EnsajShop.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hhass\Desktop\EnsajShop3\EnsajShop\Server\obj\Debug\net5.0\EnsajShop.Server.RazorAssemblyInfo.cache
+C:\Users\hhass\Desktop\EnsajShop3\EnsajShop\Server\obj\Debug\net5.0\EnsajShop.Server.RazorAssemblyInfo.cs
+C:\Users\hhass\Desktop\EnsajShop3\EnsajShop\Server\obj\Debug\net5.0\staticwebassets\EnsajShop.Server.StaticWebAssets.Manifest.cache
+C:\Users\hhass\Desktop\EnsajShop3\EnsajShop\Server\obj\Debug\net5.0\staticwebassets\EnsajShop.Server.StaticWebAssets.xml
+C:\Users\hhass\Desktop\EnsajShop3\EnsajShop\Server\obj\Debug\net5.0\scopedcss\bundle\EnsajShop.Server.styles.css
+C:\Users\hhass\Desktop\EnsajShop3\EnsajShop\Server\obj\Debug\net5.0\EnsajShop.Server.TagHelpers.input.cache
+C:\Users\hhass\Desktop\EnsajShop3\EnsajShop\Server\obj\Debug\net5.0\EnsajShop.Server.TagHelpers.output.cache
+C:\Users\hhass\Desktop\EnsajShop3\EnsajShop\Server\obj\Debug\net5.0\EnsajShop.Server.RazorCoreGenerate.cache
+C:\Users\hhass\Desktop\EnsajShop3\EnsajShop\Server\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\hhass\Desktop\EnsajShop3\EnsajShop\Server\obj\Debug\net5.0\EnsajShop.Server.RazorTargetAssemblyInfo.cache
+C:\Users\hhass\Desktop\EnsajShop3\EnsajShop\Server\obj\Debug\net5.0\EnsajShop.Server.RazorTargetAssemblyInfo.cs
+C:\Users\hhass\Desktop\EnsajShop3\EnsajShop\Server\obj\Debug\net5.0\EnsajShop.Server.Views.pdb
+C:\Users\hhass\Desktop\EnsajShop3\EnsajShop\Server\obj\Debug\net5.0\EnsajShop.Server.csproj.CopyComplete
+C:\Users\hhass\Desktop\EnsajShop3\EnsajShop\Server\obj\Debug\net5.0\EnsajShop.Server.dll
+C:\Users\hhass\Desktop\EnsajShop3\EnsajShop\Server\obj\Debug\net5.0\ref\EnsajShop.Server.dll
+C:\Users\hhass\Desktop\EnsajShop3\EnsajShop\Server\obj\Debug\net5.0\EnsajShop.Server.pdb
+C:\Users\hhass\Desktop\EnsajShop3\EnsajShop\Server\obj\Debug\net5.0\EnsajShop.Server.genruntimeconfig.cache
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Server\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Server\bin\Debug\net5.0\appsettings.json
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugHost.dll
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugProxy.dll
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Server\bin\Debug\net5.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Server\bin\Debug\net5.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.dll
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.Pdb.dll
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.Rocks.dll
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Server\bin\Debug\net5.0\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Server\bin\Debug\net5.0\EnsajShop.Client.StaticWebAssets.xml
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Server\bin\Debug\net5.0\EnsajShop.Server.StaticWebAssets.xml
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Server\bin\Debug\net5.0\EnsajShop.Server.exe
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Server\bin\Debug\net5.0\EnsajShop.Server.deps.json
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Server\bin\Debug\net5.0\EnsajShop.Server.runtimeconfig.json
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Server\bin\Debug\net5.0\EnsajShop.Server.runtimeconfig.dev.json
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Server\bin\Debug\net5.0\EnsajShop.Server.dll
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Server\bin\Debug\net5.0\ref\EnsajShop.Server.dll
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Server\bin\Debug\net5.0\EnsajShop.Server.pdb
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Server\bin\Debug\net5.0\EnsajShop.Server.Views.dll
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Server\bin\Debug\net5.0\EnsajShop.Server.Views.pdb
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Server\bin\Debug\net5.0\Humanizer.dll
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.dll
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Server\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Server\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Server\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Server\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Server\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Server\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Server\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Server\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Server\bin\Debug\net5.0\Microsoft.JSInterop.dll
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Server\bin\Debug\net5.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Server\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Server\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Server\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Server\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Server\bin\Debug\net5.0\System.IO.Pipelines.dll
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Server\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Server\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Server\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Server\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Server\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Server\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Server\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Server\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Server\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Server\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Server\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Server\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Server\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Server\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Server\bin\Debug\net5.0\EnsajShop.Client.dll
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Server\bin\Debug\net5.0\EnsajShop.Shared.dll
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Server\bin\Debug\net5.0\EnsajShop.Client.pdb
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Server\bin\Debug\net5.0\EnsajShop.Shared.pdb
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Server\obj\Debug\net5.0\EnsajShop.Server.csprojAssemblyReference.cache
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Server\obj\Debug\net5.0\EnsajShop.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Server\obj\Debug\net5.0\EnsajShop.Server.AssemblyInfoInputs.cache
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Server\obj\Debug\net5.0\EnsajShop.Server.AssemblyInfo.cs
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Server\obj\Debug\net5.0\EnsajShop.Server.csproj.CoreCompileInputs.cache
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Server\obj\Debug\net5.0\EnsajShop.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Server\obj\Debug\net5.0\EnsajShop.Server.RazorAssemblyInfo.cache
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Server\obj\Debug\net5.0\EnsajShop.Server.RazorAssemblyInfo.cs
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Server\obj\Debug\net5.0\staticwebassets\EnsajShop.Server.StaticWebAssets.Manifest.cache
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Server\obj\Debug\net5.0\staticwebassets\EnsajShop.Server.StaticWebAssets.xml
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Server\obj\Debug\net5.0\scopedcss\bundle\EnsajShop.Server.styles.css
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Server\obj\Debug\net5.0\EnsajShop.Server.TagHelpers.input.cache
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Server\obj\Debug\net5.0\EnsajShop.Server.TagHelpers.output.cache
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Server\obj\Debug\net5.0\EnsajShop.Server.RazorCoreGenerate.cache
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Server\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Server\obj\Debug\net5.0\EnsajShop.Server.RazorTargetAssemblyInfo.cache
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Server\obj\Debug\net5.0\EnsajShop.Server.RazorTargetAssemblyInfo.cs
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Server\obj\Debug\net5.0\EnsajShop.Server.Views.pdb
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Server\obj\Debug\net5.0\EnsajShop.Server.csproj.CopyComplete
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Server\obj\Debug\net5.0\EnsajShop.Server.dll
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Server\obj\Debug\net5.0\ref\EnsajShop.Server.dll
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Server\obj\Debug\net5.0\EnsajShop.Server.pdb
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Server\obj\Debug\net5.0\EnsajShop.Server.genruntimeconfig.cache
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Server\bin\Debug\net5.0\Blazored.LocalStorage.dll
+C:\Users\hhass\Desktop\EnsajShop5\EnsajShop\Server\bin\Debug\net5.0\Blazored.Toast.dll
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Server\bin\Debug\net5.0\Blazored.LocalStorage.dll
+C:\Users\MAZER Omar\Desktop\Projets\.NET\EnsajShop\Server\bin\Debug\net5.0\Blazored.Toast.dll
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Server\bin\Debug\net5.0\Blazored.LocalStorage.dll
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Server\bin\Debug\net5.0\Blazored.Toast.dll
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Server\bin\Debug\net5.0\Humanizer.dll
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Server\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Server\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Server\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Server\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Server\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Server\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Server\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Server\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Server\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Server\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Server\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Server\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Server\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Server\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Server\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Server\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Server\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Server\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Server\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Server\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Server\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Server\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Server\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Server\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\hhass\Desktop\EnsajShop\EnsajShop\Server\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
